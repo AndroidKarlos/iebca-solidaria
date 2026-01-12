@@ -160,8 +160,8 @@ O projeto foi desenvolvido com abordagem **mobile-first**, garantindo perfeita v
 
 ### Cores Principais
 
-- **Verde Principal**: `#4CAF50` - Representa esperança e solidariedade
-- **Verde Escuro**: `#2E7D32` - Acentos e hover states
+- **Verde Principal**: `#008751` - Representa esperança e solidariedade
+- **Verde Escuro**: `#006b40` - Acentos e hover states
 - **Cinza**: `#F5F5F5` - Backgrounds neutros
 
 ### Tipografia
@@ -189,43 +189,6 @@ O formulário implementa validações robustas:
 4. Adicione a variável de ambiente `GOOGLE_SCRIPT_URL`
 5. Deploy!
 
-### Outras Plataformas
-
-O projeto é compatível com:
-
-- Netlify
-- AWS Amplify
-- Google Cloud Run
-- Railway
-- Render
-
-## 📚 Aprendizados e Justificativas Técnicas
-
-### Por que Next.js?
-
-- **SEO otimizado**: Renderização do lado do servidor melhora indexação
-- **Performance**: Code splitting automático e otimizações built-in
-- **Escalabilidade**: Fácil adicionar novas funcionalidades (dashboard admin, etc)
-- **Mercado**: Tecnologia amplamente utilizada por empresas
-
-### Por que TypeScript?
-
-- **Segurança**: Detecção de erros em tempo de desenvolvimento
-- **Manutenibilidade**: Código auto-documentado com tipos
-- **Produtividade**: Autocomplete e IntelliSense robustos
-
-### Por que Tailwind CSS?
-
-- **Velocidade**: Desenvolvimento rápido com classes utilitárias
-- **Consistência**: Design system coeso
-- **Performance**: CSS otimizado e purificado em produção
-
-### Por que Zod + React Hook Form?
-
-- **Validação type-safe**: Schema unificado para front e back
-- **Performance**: Renderizações otimizadas
-- **UX**: Feedback imediato ao usuário
-
 ## 👥 Equipe
 
 Projeto desenvolvido como Atividade Extensionista por estudantes de ADS - Uninter.
@@ -243,12 +206,5 @@ Sugestões e melhorias são bem-vindas! Para contribuir:
 3. Commit suas mudanças (`git commit -m 'Adiciona MinhaFeature'`)
 4. Push para a branch (`git push origin feature/MinhaFeature`)
 5. Abra um Pull Request
-
-## 📞 Contato
-
-**Igreja Batista Evangélica de Casa Amarela**
-📍 Bairro de Casa Amarela - Recife, PE
-
----
 
 **Desenvolvido com ❤️ e tecnologia para transformar vidas**
